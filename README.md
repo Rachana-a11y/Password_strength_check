@@ -84,7 +84,7 @@ Image: Screenshots/passwordmonster_results.png
 
 To display this on GitHub, this line is already added in the README:
 
-![Password Strength Results](Screenshots)
+![Password Strength Results](password_monster.pdf)
 
 🔐 What Makes a Password Strong
 It should be at least 12 characters long.
