@@ -1,5 +1,4 @@
 # Password_strength_Evaluation
-🔐 Password Strength Evaluation
 Cybersecurity Internship – Task 6
 
 📌 Objective
@@ -9,7 +8,7 @@ To explore how password complexity affects security, test various passwords usin
 PasswordMonster – https://passwordmonster.com
 This tool shows how long a password would take to crack and gives feedback on its strength.
 
-📝 What I Did
+## 📝 What I Did
 Created multiple sample passwords with different lengths and character combinations.
 
 Tested each password using PasswordMonster.
@@ -77,7 +76,7 @@ Password: C0d3IsFUn@7
     Reason: Good mix of letters, numbers, and symbols with creativity.
 _____________________________________
 
-🖼 Screenshot
+## 🖼 Screenshot
 All screenshots of the password results from PasswordMonster is included in the Screenshots folder.
 
 Image: Screenshots/passwordmonster_results.png
@@ -97,7 +96,7 @@ Passphrases (like sentences) are better for memorability and strength.
 
 Each account should have a unique password.
 
-⚠️ Common Password Attack Methods
+## ⚠️ Common Password Attack Methods
 Brute Force Attack:
 Tries every possible combination until the password is guessed. Short and simple passwords are easier to break this way.
 
@@ -107,7 +106,7 @@ Tries passwords using a list of common words and phrases. Avoid dictionary words
 Credential Stuffing:
 Uses leaked username-password combinations from other sites. If you reuse the same password, this can compromise multiple accounts.
 
-🛡 Best Practices for Password Security
+## 🛡 Best Practices for Password Security
 Use long passwords (12+ characters).
 
 Always use a combination of letter cases, numbers, and symbols.
