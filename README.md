@@ -36,9 +36,9 @@ Password: Rachana@2024
 
     Length: 12 characters 
     
-    Crack Time: Around 30 minutes 
+    Crack Time: 1 month
     
-    Strength: Moderate 
+    Strength: Strong
     
     Reason: Includes a symbol, but predictable structure.
 ___________________________________
@@ -47,7 +47,7 @@ Password: RaC#28xU2v!9
 
     Length: 12 characters
     
-    Crack Time: Over 10 billion years
+    Crack Time: 2 billion years
     
     Strength: Very Strong
     
@@ -58,23 +58,13 @@ Password: CoffeeLover2025!
 
     Length: 16 characters
     
-    Crack Time: Hundreds of years
+    Crack Time: 14 hours
     
-    Strength: Strong
+    Strength: Medium
     
     Reason: Long, includes symbols and words in a passphrase style.
 ____________________________________
 
-Password: C0d3IsFUn@7
-  
-    Length: 11 characters
-    
-    Crack Time: 100+ million years
-    
-    Strength: Very Strong
-    
-    Reason: Good mix of letters, numbers, and symbols with creativity.
-_____________________________________
 
 ## 🖼 Screenshot
 All screenshots of the password results from PasswordMonster is included in the Screenshots folder.
