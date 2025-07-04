@@ -119,12 +119,3 @@ Use a password manager to store and create complex passwords safely.
 Enable Multi-Factor Authentication (MFA) for an extra layer of protection.
 
 
-📤 Submission Details
-Task Name: Password Strength Evaluation (Task 6)
-Internship Domain: Cybersecurity
-Completion Date: [Insert Date]
-GitHub Repository: [Insert GitHub Repo Link Here]
-
-Developed by: Rachana Appani
-Aspiring Cybersecurity & Python Developer
-
